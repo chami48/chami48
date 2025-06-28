@@ -11,7 +11,7 @@
 - 🎓 I'm currently pursuing a degree in **Information Technology at SLIIT**
 - 🌱 I’m currently learning **React**, **Node.js**, and exploring the **MERN stack**
 - 🎯 Interested in **responsive UI design**, **modern web apps**, and **open-source**
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **dilmichamya48@gmail.com**
 
 ---
 
@@ -42,9 +42,8 @@
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=codepen)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dilmi-chamya-4892b02b7)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dilmichamya48@gmail.com)
 
 ---
 
