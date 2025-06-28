@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hi there, I'm Dilmi Chamya!
 
-<!--
-**chami48/chami48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an undergraduate student at **SLIIT** in the **Information Technology** field.  
+💻 I'm passionate about **software development**, especially in **front-end technologies**.  
+🎯 My focus is on creating responsive, user-friendly web applications.  
+🌱 Currently learning **React**, **JavaScript**, and exploring the **MERN stack**.
 
-Here are some ideas to get you started:
+🚀 Skills & Technologies
+- HTML, CSS, JavaScript
+- React.js
+- Git & GitHub
+- Java, MySQL, Node.js (learning)
+- WordPress(learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  📫 How to Reach Me
+- Email: [dilmichamya48@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/dilmi-chamya-4892b02b7)
+- Instergram: [https://www.instagram.com/chamya_nadakanda?igsh=dmJsY3lxbDYwYXA=]
